@@ -1,0 +1,2 @@
+class LeftSwitch < ApplicationRecord
+end

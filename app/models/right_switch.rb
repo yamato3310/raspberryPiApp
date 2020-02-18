@@ -1,0 +1,2 @@
+class RightSwitch < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+module LeftSwitchsHelper
+end
